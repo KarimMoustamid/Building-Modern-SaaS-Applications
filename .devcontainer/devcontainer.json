@@ -1,0 +1,9 @@
+{
+  "name": "SaaS Book",
+  "dockerComposeFile": ["../docker/docker-compose.yaml"],
+  "service": "dev-env",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+  },
+  "remoteUser": "root"
+}
